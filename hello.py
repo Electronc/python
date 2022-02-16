@@ -6,4 +6,4 @@ if __name__ == "__main__":
     a=2
     b=3
     print("hello world!")
-    print('Wynik działania: '+str(policz(a,b)))
+    print('Wynik mnożenia '+str(a)+" * "+str(b)+" = " +str(policz(a,b)))
